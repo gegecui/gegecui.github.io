@@ -22,7 +22,6 @@ Bachelor of Science: Vehicle Engineering
 
 Publications
 ======
-• G. Cui, C. Lu*, et al., Recognition of Cyclist Risky Levels in Shared Space with Intelligent Vehicle: A Graph-based Cross-Skeleton Fusion Method (working paper, prepare for submission to IEEE Transactions on Intelligent Transportation Systems, expected completion: Mar. 30th )
 • Z. Zhang, C. Lu*, G. Cui, et al., Prediction of Pedestrian Spatial-Temporal Risky Levels for Intelligent Vehicles: A Data-driven Approach (under review on IEEE Transactions on Vehicular Technology, IF=8.089) 
 • G. Cui, C. Lu*, X. Meng, et al., Data-Driven Personalized Scenario Risk Map Construction for Intelligent Vehicles, (accepted on Automotive Engineering, in Chinese) link
 • C. Lu*, G. Cui, X. Meng, et al, Graph Representation Method for Pedestrian Intention Recognition of Intelligent Vehicle (accepted on Transactions of Beijing Institute of Technology, in Chinese)
