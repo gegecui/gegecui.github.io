@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year graduate student from [](), [Beijing Institute of Technology](). My research interest includes 
+I'm a third year graduate student from [School of Mechanism](), [Beijing Institute of Technology](). My research interest includes 
 You can find my CV here: [GegeCui's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
 
 [Email](gegecui_bit.163.com)/[Github](http://github.com/gegecui)/[Wechat](../images/wechat.jpg)/[CSDN](https://blog.csdn.net/)
